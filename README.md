@@ -12,7 +12,7 @@ I'm Lachlan Terrey a Full Stack Web Developer. I Spend most of time coding outst
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m looking for help with how to center a div for the 10,000th time.
 - 📫 How to reach me: lachlanterrey@yahoo.com.
-- ⚡ Fun fact: I play games and go to the GYM very often.
+- ⚡ Fun fact: I play games and loose CSGO matches constantly.
 
 #### Top Technologies
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) 
@@ -22,9 +22,9 @@ I'm Lachlan Terrey a Full Stack Web Developer. I Spend most of time coding outst
 #### Resume
 - :paperclip: [My Resume/CV]()
 - :email: lachlanterrey@yahoo.com
-<details>
+
 
 #### Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=t3rrey&count_private=true)
 
-</details>
+
