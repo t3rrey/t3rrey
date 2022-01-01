@@ -8,7 +8,6 @@ I'm Lachlan Terrey a Full Stack Web Developer. I Spend most of time coding outst
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently working at Web Development at Macquarie University
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m looking for help with how to center a div for the 10,000th time.
 - 📫 How to reach me: lachlanterrey@yahoo.com.
