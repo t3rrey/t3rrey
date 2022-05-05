@@ -18,11 +18,6 @@ I'm Lachlan a Full Stack Web Developer. I Spend most of time coding outstanding 
 <br />
 
 
-#### Resume
-- :paperclip: [My Resume/CV]()
-- :email: lachlanterrey@yahoo.com
-
-
 #### Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=t3rrey&count_private=true)
 
