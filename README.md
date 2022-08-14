@@ -10,7 +10,6 @@ I'm Lachlan a Full Stack Web Developer. I Spend most of time coding outstanding 
 
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m looking for help with how to center a div for the 10,000th time.
-- 📫 How to reach me: lachlanterrey@yahoo.com.
 - ⚡ Fun fact: I play games and loose CSGO matches constantly.
 
 #### Top Technologies
