@@ -4,7 +4,7 @@ I'm Lachlan a Full Stack Web Developer. I Spend most of time coding outstanding 
 
 :mailbox: Reach out to me!
 
-[![Twitter Badge](https://img.shields.io/badge/-@lachlanterrey?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/lachlanterrey)](https://twitter.com/lachlanterrey)  [![Linkedin Badge](https://img.shields.io/badge/-lachlanterrey-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lachlanterrey/) [![Mail Badge](https://img.shields.io/badge/-lachlanterrey-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:lachlanterrey@yahoo.com)
+[![Linkedin Badge](https://img.shields.io/badge/-lachlanterrey-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lachlanterrey/) [![Mail Badge](https://img.shields.io/badge/-lachlanterrey-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:lachlanterrey@yahoo.com)
 
 <!-- TODO: Add last video link -->
 
